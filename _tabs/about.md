@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+My name is Clement Barbet.
+I'm currently a SRE at Microsoft.
+
+I try to spend my times upskilling about AI. Right now I'm focusing on math.
+My goal would be to pivot toward a MLOps job in the next years.
+
